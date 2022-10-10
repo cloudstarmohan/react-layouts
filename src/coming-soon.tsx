@@ -13,7 +13,7 @@ export const CommingSoon = ()=>{
             <div className="col-12 col-md-7 right">
               <div className="mainInfo">
                 <h1>COMING SOON</h1>
-                <p className="slogan">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime consequuntur
+                <p className="slogan">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime consequuntur Oyo Kavin✊
                   delectus asperiores tempora autem laboriosam omnis. </p>
                 <form className="form-subscribe" action="#"> <input type="email" className="form" placeholder="Your email address" required /> <button type="submit">Subscribe</button> </form>
               </div>

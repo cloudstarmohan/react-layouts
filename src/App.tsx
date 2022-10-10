@@ -13,7 +13,7 @@ function App() {
               <h3>Column 1</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...  poada vennna ......</p>
               <p>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                Ut enim ad minim veniam, quis nostrud exercitation ullamco Kavin Oyo👩🏼‍❤️‍👨🏽
                 laboris...
               </p>
             </div>
@@ -21,7 +21,7 @@ function App() {
               <h3>Column 2</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
               <p>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                Ut enim ad minim veniam, quis nostrud exercitation ullamcoKavin Oyo👩🏼‍❤️‍👨🏽
                 laboris...
               </p>
               <p>
@@ -33,7 +33,7 @@ function App() {
               <h3>Column 3</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
               <p>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                Ut enim ad minim veniam, quis nostrud exercitation ullamcoKavin Oyo👩🏼‍❤️‍👨🏽
                 laboris...
               </p>
             </div>
