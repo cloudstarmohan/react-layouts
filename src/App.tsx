@@ -24,6 +24,10 @@ function App() {
                 Ut enim ad minim veniam, quis nostrud exercitation ullamco
                 laboris...
               </p>
+              <p>
+                quis nostrud exercitation ullamco
+                laboris...
+              </p>
             </div>
             <div className="col-sm-4">
               <h3>Column 3</h3>
@@ -39,6 +43,14 @@ function App() {
                 There’s a lot of flexibility when it comes to writing
                 paragraphs, but if there’s one steadfast rule, it’s this:
                 Paragraphs should relate to one main topic or point. The
+                paragraph itself often contains multiple points spanning several
+                sentences, but they should all revolve around one core theme.
+                Just as sentences build upon each other to communicate the
+                paragraph’s core theme, paragraphs work together to communicate
+                the core theme of the writing as a whole.{" "}
+              </span>
+              <span>
+                The
                 paragraph itself often contains multiple points spanning several
                 sentences, but they should all revolve around one core theme.
                 Just as sentences build upon each other to communicate the
