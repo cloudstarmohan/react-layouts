@@ -19,6 +19,7 @@ function App() {
             </div>
             <div className="col-sm-4">
               <h3>Column 2</h3>
+              <small>This is some smaller text.</small>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
               <p>
                 Ut enim ad minim veniam, quis nostrud exercitation ullamcoKavin Oyo👩🏼‍❤️‍👨🏽
