@@ -16,6 +16,7 @@ function App() {
                 Ut enim ad minim veniam, quis nostrud exercitation ullamco Kavin Oyo👩🏼‍❤️‍👨🏽
                 laboris...
               </p>
+              <img src="url" alt="alternatetext"></img>
             </div>
             <div className="col-sm-4">
               <h3>Column 2</h3>
